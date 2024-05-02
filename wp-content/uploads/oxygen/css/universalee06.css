@@ -1154,7 +1154,7 @@ display:flex;
 .card--grid.oxy-easy-posts .oxy-posts,
 .card--grid.ct-section .ct-section-inner-wrap{
 display:grid;
-display: grid !important;align-items: stretch;grid-template-columns: repeat(4, minmax(200px, 1fr));grid-column-gap: 25px;grid-row-gap: 20px;grid-auto-rows: minmax(min-content,1fr);}
+display: grid !important;align-items: stretch;grid-template-columns: repeat(3, minmax(200px, 1fr));grid-column-gap: 25px;grid-row-gap: 20px;grid-auto-rows: minmax(min-content,1fr);}
 @media (max-width: 1120px) {
 .card--grid {
 }
